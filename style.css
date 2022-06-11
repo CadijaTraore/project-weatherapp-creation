@@ -62,26 +62,3 @@ form {
     margin-top: 40px;
 }
 
-.container {
-    padding-left: 150px;
-}
-
-.col-5 {
-    padding-left: 150px;
-
-}
-
-.col-5-1 {
-    position: relative;
-    left: 125px;
-}
-
-.col-5-2 {
-    position: relative;
-    left: 145px;
-}
-
-.col-5-3 {
-    position: relative;
-    left: 170px;
-}
