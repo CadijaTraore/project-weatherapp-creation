@@ -61,4 +61,34 @@ form {
     position: relative;
     margin-top: 40px;
 }
+ .Weekdays {
+     padding: 10% 10%;
+ }
 
+ .temperature {
+     padding: 10% 5%;
+ }
+
+ .windSpeed {
+     padding: 10% 5%;
+ }
+
+ .humidity {
+     padding: 10% 5%;
+ }
+
+ .row1 {
+     padding: 0% 7%;
+ }
+
+ .row2 {
+     padding: 0% 25%;
+ }
+
+ .row3 {
+     padding: 0% 15%;
+ }
+
+ .row4 {
+     padding: 0% 20%;
+ }
