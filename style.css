@@ -4,14 +4,12 @@ h3 {
 
 body {
     background-image: url("image.jpg");
-    background-size: cover;
+    background-size: ;
     font-weight: bolder;
 }
-
 .title {
     text-align: center;
 }
-
 .sky {
     font-size: 20px;
     color: beige;
@@ -19,28 +17,23 @@ body {
     left: 550px;
     bottom: 10px;
 }
-
 .emoji {
     font-size: 50px;
     position: relative;
     left: 450px;
     bottom: 10px;
 }
-
 .celcius {
     font-size: 40px;
     position: relative;
     left: 440px;
     bottom: 10px;
 }
-
 strong {
     font-size: 15px;
     font-weight: bolder;
 }
-
-.link,
-strong {
+.link,strong {
     position: relative;
     left: 430px;
     bottom: 30px;
@@ -52,9 +45,7 @@ strong {
     left: 590px;
     bottom: 80px;
     list-style: none;
-
 }
-
 form {
     padding-bottom: 30px;
     text-align: center;
