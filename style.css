@@ -1,0 +1,87 @@
+h3 {
+    text-align: center;
+}
+
+body {
+    background-image: url("image.jpg");
+    background-size: cover;
+    font-weight: bolder;
+}
+
+.title {
+    text-align: center;
+}
+
+.sky {
+    font-size: 20px;
+    color: beige;
+    position: relative;
+    left: 550px;
+    bottom: 10px;
+}
+
+.emoji {
+    font-size: 50px;
+    position: relative;
+    left: 450px;
+    bottom: 10px;
+}
+
+.celcius {
+    font-size: 40px;
+    position: relative;
+    left: 440px;
+    bottom: 10px;
+}
+
+strong {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.link,
+strong {
+    position: relative;
+    left: 430px;
+    bottom: 30px;
+    color: black;
+}
+
+.details {
+    position: relative;
+    left: 590px;
+    bottom: 80px;
+    list-style: none;
+
+}
+
+form {
+    padding-bottom: 30px;
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+}
+
+.container {
+    padding-left: 150px;
+}
+
+.col-5 {
+    padding-left: 150px;
+
+}
+
+.col-5-1 {
+    position: relative;
+    left: 125px;
+}
+
+.col-5-2 {
+    position: relative;
+    left: 145px;
+}
+
+.col-5-3 {
+    position: relative;
+    left: 170px;
+}
