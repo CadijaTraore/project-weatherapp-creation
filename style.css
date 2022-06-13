@@ -52,6 +52,9 @@ form {
     position: relative;
     margin-top: 40px;
 }
+.container{
+    border: solid
+}
  .Weekdays {
      position: relative;
      right: 100px;
