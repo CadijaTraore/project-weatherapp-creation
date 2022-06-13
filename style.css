@@ -52,9 +52,6 @@ form {
     position: relative;
     margin-top: 40px;
 }
-.container{
-    border: solid
-}
  .Weekdays {
      position: relative;
      right: 100px;
@@ -92,7 +89,7 @@ form {
 
  .row4 {
      position: relative;
-     left: 480px;
+     left: 445px;
  }
  .gitHub {
     text-align: center;
